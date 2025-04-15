@@ -111,13 +111,7 @@ int main() {
     return 0;
 }
 ```
-
-
-
 ## Output:
 ![image](https://github.com/user-attachments/assets/dbee9bd0-d7cb-4a85-8a72-4feeb1c3dc1b)
-
-
-
 ## Result:
  The program is executed successfully.
